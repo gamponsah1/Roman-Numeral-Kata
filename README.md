@@ -1,1 +1,2 @@
 # Roman-Numeral-Kata
+This Python project converts decimal numbers to Roman numerals. It provides a simple command-line interface where users can input decimal numbers and receive their corresponding Roman numeral representations.The implementation is concise and readable, employing a dictionary-based mapping approach and iterative digit handling for efficient conversion.This converter offers a user-friendly solution with accurate results.
